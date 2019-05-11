@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("easyinstaller_main")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("EasyInstaller")]
+[assembly: AssemblyDescription("安装包")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("easyinstaller_main")]
+[assembly: AssemblyCompany("游戏宇宙")]
+[assembly: AssemblyProduct("EasyInstaller")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyTrademark("游戏宇宙")]
 [assembly: AssemblyCulture("")]
 
 // 将 ComVisible 设置为 false 会使此程序集中的类型
